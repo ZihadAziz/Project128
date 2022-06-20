@@ -1,0 +1,28 @@
+body {
+    background-image: url('background.jpg');
+    background-size: cover;
+}
+
+#VolumeDiv {
+    float: left;
+}
+#SpeedDiv {
+    float: right;
+}
+
+.Images {
+    height: 125px;
+    width: 125px;
+    border-radius: 100px;
+    margin: 20px;
+}
+
+#heading {
+    width: 100%;
+    margin-top: 0px;
+    font-size: 25px;
+}
+#note {
+    font-size: 15px;
+    color: black;
+}
